@@ -1,0 +1,200 @@
+:root {
+    --page-color: gray;
+    --bg-color: springgreen;
+    --txt-color: black;
+    --fg-color: lightgray;
+}
+
+body {
+    color: var(--txt-color);
+    background-color: var(--page-color);
+    font-family: Century Gothic;
+    padding: 0px 40px 40px 40px;
+    overflow-y: scroll;
+    /*background-image: url(background.png) */
+}
+
+p {
+    text-indent: 40px;
+    padding: 10px 20px 15px 5px;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: bold;
+    font-family: 'Consolas';
+    margin-top: 10px;
+    text-indent: 10px;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+h4 {
+    font-size: 16px;
+}
+
+a {
+    color: inherit;
+}
+
+a:link{
+    color: inherit;
+    text-decoration: none;
+}
+
+a:hover, a:active {
+    background-color: inherit;
+    color: var(--bg-color);
+}
+
+.link {
+    color: var(--txt-color);
+}
+
+.link:visited {
+    color: var(--txt-color);
+}
+
+li a, .dropbtn {
+    display: inline-block;
+    color: white;
+}
+
+li.dropdown {
+    display: inline-block;
+}
+
+.link:hover {
+    color: var(--txt-color);
+    font-weight: bold;
+}
+
+.container {
+    background-color: var(--fg-color);
+    border-style: solid;
+    border-radius: 10px 10px 10px 10px;
+    border-color: var(--txt-color);
+    border-width: 2px;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    color: white;
+}
+
+.dropdown-content {
+    /* margin: 7px -12px; */
+    display: none;
+    position: absolute;
+    background-color: white;
+    z-index: 1;
+}
+
+.dropdown-content a {
+    background-color: white;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: flex;
+    text-align: left;
+    width: 130px;
+}
+
+.dropdown-content a:hover {
+    background-color: var(--bg-color)
+}
+
+.navbar-brand {
+    font-size: 32px;
+    color: white;
+}    
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+.row {
+    margin: 10px 10px 10px 10px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+#transcript {
+    text-align:right;
+    margin-right: 20px;
+}
+
+#y {
+    background-color: var(--bg-color);
+    color: black;
+}
+
+#n:hover {
+    background-color: inherit;
+    color: var(--txt-color);
+}
+
+#dropbtn {
+    background-color: black;
+    color: white;
+}
+
+#navbar {
+    font-family: Century Gothic;
+    background-color: black;
+    color: white;
+    /* overflow: hidden; */
+}
+
+#navbar a {
+    float: left;
+    display: block;
+    /* text-align: center; */
+}
+
+#navcont {
+    width: inherit;
+    /* position: relative; */
+    top: 0;
+    background-color: inherit;
+    border-style: none;
+}
+
+#btncont {
+    background-color: inherit;
+    border-style: none;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#hidden1 {
+    display: none;
+}
+#hidden2 {
+    display: none;
+}
+#hidden3 {
+    display: none;
+}
+#hidden4 {
+    display: none;
+}

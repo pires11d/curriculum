@@ -1,0 +1,107 @@
+:root {
+  --page-color: gray;
+  --bg-color: springgreen;
+  --txt-color: black;
+  --fg-color: lightgray;
+}
+
+.screens {
+  max-height: 600px;
+  max-width: 1100px;
+  display: auto;
+  width: 100%;
+  height: auto;
+  align-self: center;
+}
+
+/* Slideshow container */
+.slideshow-container {
+  /* position: absolute; */
+  width: 100%;
+}
+
+/* Hide the images by default */
+.mySlides {
+    display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  padding: 16px;
+  width: 50px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0px;
+  border-radius: 3px 0 0 3px;
+}
+
+/*On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: var(--bg-color)
+}
+
+/* Caption text */
+.text {
+  background-color: var(--fg-color);
+  /* border-style: solid; */
+  border-color: var(--txt-color);
+  border-width: 2px;
+  color: var(--txt-color);
+  font-size: 16px;
+  width: 100%;
+  text-align: center;
+  /* padding: 8px 12px; */
+  /* position: fixed; */
+  /* bottom: 8px; */
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: var(--txt-color);
+  font-size: 12px;
+  top: 0px;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 16px;
+  width: 16px;
+  margin: 8px 2px 2px 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.5s ease;
+}
+
+.active, .dot:hover {
+  background-color: black;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
