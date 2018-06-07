@@ -12,14 +12,14 @@
         <!--HEADER 1-->
         <div id="c1_1" class="container">
             <a href="https://chemengbrasil.wixsite.com/index"><h1>ChemEng Brasil</h1></a>
-            <!-- <div id="hidden1">
-            </div> -->
+            <p>Website educativo, sem fins lucrativos, dedicado a compartilhar conhecimentos de Engenharia Química, Engenharia de Alimentos, Farmácia, Botânica e Agronomia.</p>
         </div>
         <p></p>
         <!-- HEADER 2 -->
         <div id="c1_2" class="container">
             <h1>Counter-Strike:Source Maps</h1>
             <div id="hidden2">
+                <p>Criação de mapas (cenários) 3D utilizando o software Source SDK / Valve Hammer Editor, programa similar a AutoCAD 3D.</p>
                 <ul><h2>
                     <li><a class="link" href="https://gamebanana.com/maps/163506">Surf_Salvia</a></li>
                     <li><a class="link" href="https://gamebanana.com/maps/163568">Surf_Library</a></li>
