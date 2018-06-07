@@ -7,29 +7,8 @@
         <link rel="stylesheet" href="css/styler.css">
     </head>
     <body>
-        <!-- NAVBAR -->
-        <div id="navcont" class="container">
-                <nav id="navbar" class="navbar navbar-expand-lg">
-                    <a class="navbar-brand" role="button" href="index.html">Lucas Joshua Pires</a>
-                    <div id="btncont" class="container">
-                        <a class="btn" role="button" href="about.html">Qualificações</a>
-                        <a id="y" class="btn" role="button" href="grad.html">Formação</a>
-                        <a class="btn" role="button" href="docs.html">Certificados</a>
-                        <div class="dropdown">
-                            <button id="dropbtn" class="btn"  role="button" href="projects.html">
-                                <a href="projects.html">Projetos</a> 
-                            </button>
-                            <div class="dropdown-content">
-                                <a href="projects1.html">Acadêmicos</a>
-                                <a href="projects2.html">Comerciais</a>
-                                <a href="projects3.html">Comunitários</a>
-                            </div>
-                        </div>
-                        <a class="btn" role="button" href="contact.html">Contato</a>
-                    </div>
-                </nav>
-            </div>
-            <p></p>
+        <?php include("header.php"); ?>
+        <p></p>
         <!--HEADER 1-->
         <div id="c1_1" class="container">
             <h1 id="h1_1">UFSC (BRA)</h1>
@@ -93,6 +72,6 @@
             </ul>
         </div>
     </body>
-    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="js/jquery.js"></script>
     <script src="js/scripts.js"></script>
 </html>

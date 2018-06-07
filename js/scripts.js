@@ -20,10 +20,16 @@ $("#c1_4").click(function() {
     $("#hidden4").slideToggle();
 });
 
-$("#dropbtn").mouseover(function() {
+$(".dropbtn").mouseover(function() {
     $(".dropdown-content").slideDown();
 });
-$(".container").click(function() {
+$(".dropdown").mouseover(function() {
+    $(".dropdown-content").slideDown();
+});
+// $(".dropdown-content").mouseout(function() {
+//     $(".dropdown-content").slideUp();
+// });
+$("body").click(function() {
     $(".dropdown-content").slideUp();
 });
 
@@ -40,11 +46,6 @@ $("#h1_2").hover(function() {
 $("#h1_2").mouseout(function() {
     $(this).html("UNB (CAN)");
 });
-
-// $("#.container").click(function() {
-//     $("#projects").load();
-//     $("#projects").display = "block";
-// });
 
 //endregion
 
@@ -81,31 +82,5 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
   stdSlide.style.display = "none";
 }
-
-// endregion
-
-
-// region Include HTML:
-function includeHTML() {
-  var z, file, xhttp;
-  z = document.getElementById("includedContent");
-  console.log(z)
-    xhttp = new XMLHttpRequest();
-    xhttp.open("GET", "C:/Users/Pires/Dropbox/_documentos/curriculos/menu.html");
-    console.log(xhttp)
-    xhttp.onreadystatechange = function() {
-    // if (this.readyState == 4) {
-        if (xhttp.status == 200) {z.innerHTML = xhttp.responseText;}
-        if (xhttp.status == 404) {z.innerHTML = "Page not found.";}
-    // }
-    }
-    xhttp.send();
-  }
-
-includeHTML()
-
-document.body.addEventListener("click",function(e){
-    console.log(e)
-})
 
 // endregion
