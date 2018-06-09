@@ -12,6 +12,10 @@
     <body>
         <?php include("header.php"); ?>
         <div class="container">
+            <!-- Next and previous buttons -->
+            <a class="prev" onclick="changeSlides(-1)">&#10094;</a>
+            <a class="next" onclick="changeSlides(1)">&#10095;</a>
+            <br>    
             <div class="slideshow-container">
                 <!-- The dots/circles -->
                 <div id="navcont" class="container" style="text-align:center">
@@ -23,7 +27,7 @@
                     <span class="dot" onclick="currentSlide(6)"></span> 
                     <span class="dot" onclick="currentSlide(7)"></span> 
                     <span class="dot" onclick="currentSlide(8)"></span> 
-                </div>
+                </div> 
                 <!-- Initial Slide -->
                 <div id="stdSlide">
                     <div class="numbertext">1 / 8</div>
@@ -70,11 +74,7 @@
                     <div class="numbertext">8 / 8</div>
                     <img class="screens" src="img/OxyFree1.PNG">
                     <div class="text">OxyFree - Graphical Output</div>
-                </div>
-                <!-- Next and previous buttons -->
-                <a class="prev" onclick="changeSlides(-1)">&#10094;</a>
-                <a class="next" onclick="changeSlides(1)">&#10095;</a>
-                <br>      
+                </div> 
             </div>
         </div>
     </body>
