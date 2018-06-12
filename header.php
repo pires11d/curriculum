@@ -6,7 +6,7 @@
             <li class="nli"><a class="btn" role="button" href="about.php">Geral</a></li>
             <li class="nli"><a class="btn" role="button" href="grad.php">Formação</a></li>
             <li class="nli"><a class="btn" role="button" href="docs.php">Certificados</a></li>
-            <li class="nli"><a class="btn dropbtn" role="button" href="projects.php">&emsp;Projetos&emsp;</a></li>
+            <li class="nli"><a class="btn dropbtn" role="button">&emsp;Projetos&emsp;</a></li>
             <div class="dropdown">
                 <div class="dropdown-content">
                     <a href="projects1.php">Acadêmicos</a>

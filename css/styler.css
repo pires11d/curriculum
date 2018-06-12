@@ -67,6 +67,11 @@ li.dropdown {
     display: inline-block;
 }
 
+/* .nli:nover, .nli:active {
+    background-color: inherit;
+    color: var(--bg-color);
+} */
+
 .btn {
     width: 120px;
     color: white;
@@ -115,7 +120,7 @@ li.dropdown {
     color: black;
     padding: 12px 12px;
     text-decoration: none;
-    display: block;
+    /* display: inline-block; */
     text-align: left;
     width: 120px;
 }
@@ -185,7 +190,6 @@ li.dropdown {
 }
 
 #navcont {
-    /* position: fixed; */
     top: 0px;
     background-color: inherit;
     border-style: none;
