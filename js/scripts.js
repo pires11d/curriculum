@@ -21,14 +21,9 @@ $("#c1_4").click(function() {
 });
 
 $(".dropbtn").mouseover(function() {
-    $(".dropdown-content").slideDown();
+    $(".dropdown").slideToggle();
+    $(".dropdown-content").slideToggle();
 });
-$(".dropdown").mouseover(function() {
-    $(".dropdown-content").slideDown();
-});
-// $(".dropdown-content").mouseout(function() {
-//     $(".dropdown-content").slideUp();
-// });
 $("body").click(function() {
     $(".dropdown-content").slideUp();
 });

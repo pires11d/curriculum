@@ -59,17 +59,17 @@ a:hover, a:active {
     color: var(--bg-color);
 }
 
-li a, .dropbtn {
+li.dropdown {
     display: inline-block;
-    color: white;
 }
 
-li.dropdown {
+.nli {
     display: inline-block;
 }
 
 .btn {
     width: 120px;
+    color: white;
 }
 
 .btn:hover {
@@ -93,17 +93,18 @@ li.dropdown {
 
 .dropbtn {
     position: relative;
+    display: inline-block;
 }
 
 .dropdown {
     position: relative;
-    display: inline;
+    display: inline-block;
     color: white;
 }
 
 .dropdown-content {
-    top: 0px;
-    left: -120px;
+    top: 12px;
+    left: -124px;
     display: none;
     position: absolute;
     background-color: white;
