@@ -9,14 +9,13 @@ body {
     color: var(--txt-color);
     background-color: var(--page-color);
     font-family: "Century Gothic", CenturyGothic, sans-serif;
-    /* font-family: 'Courier New', Courier, monospace; */
     padding: 0px 40px 40px 40px;
     overflow-y: scroll;
     /*background-image: url(background.png) */
 }
 
 p {
-    text-indent: 40px;
+    text-indent: 20px;
     padding: 10px 20px 15px 5px;
 }
 
@@ -60,14 +59,6 @@ a:hover, a:active {
     color: var(--bg-color);
 }
 
-.link {
-    color: var(--txt-color);
-}
-
-.link:visited {
-    color: var(--txt-color);
-}
-
 li a, .dropbtn {
     display: inline-block;
     color: white;
@@ -77,22 +68,27 @@ li.dropdown {
     display: inline-block;
 }
 
-.link:hover {
-    color: var(--txt-color);
-    font-weight: bold;
-}
-
-.container {
-    background-color: var(--fg-color);
-    border-style: solid;
-    border-radius: 10px 10px 10px 10px;
-    border-color: var(--txt-color);
-    border-width: 2px;
+.btn {
+    width: 120px;
 }
 
 .btn:hover {
     color: var(--txt-color);
     background-color: var(--bg-color);
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+.container {
+    max-width: auto;
+    background-color: var(--fg-color);
+    border-style: solid;
+    border-radius: 10px 10px 10px 10px;
+    border-color: var(--txt-color);
+    border-width: 2px;
 }
 
 .dropbtn {
@@ -106,12 +102,11 @@ li.dropdown {
 }
 
 .dropdown-content {
-    top: 20px;
-    left: -102px;
+    top: 0px;
+    left: -120px;
     display: none;
     position: absolute;
     background-color: white;
-    /* z-index: 1; */
 }
 
 .dropdown-content a {
@@ -121,21 +116,36 @@ li.dropdown {
     text-decoration: none;
     display: block;
     text-align: left;
-    width: 115px;
+    width: 120px;
 }
 
 .dropdown-content a:hover {
     background-color: var(--bg-color)
 }
 
+.link {
+    color: var(--txt-color);
+}
+
+.link:visited {
+    color: var(--txt-color);
+}
+
+.link:hover {
+    color: var(--txt-color);
+    font-weight: bold;
+}
+
 .navbar-brand {
     font-size: 32px;
     color: white;
-}    
+}
 
-.column {
-    float: left;
-    width: 50%;
+.photo {
+    max-width: 256px;
+    width: 100%;
+    height: auto;
+    display: auto;
 }
 
 .row {
@@ -163,36 +173,36 @@ li.dropdown {
     color: var(--txt-color);
 }
 
-#dropbtn {
-    background-color: black;
-    color: white;
-}
-
 #navbar {
     background-color: black;
     color: white;
-    /* overflow: hidden; */
 }
 
 #navbar a {
-    float: left;
+    float: center;
     display: block;
-    /* text-align: center; */
 }
 
 #navcont {
-    width: inherit;
-    /* position: relative; */
-    top: 0;
+    /* position: fixed; */
+    top: 0px;
     background-color: inherit;
     border-style: none;
 }
 
 #btncont {
+    position: relative;
+    width: 100%;
     background-color: inherit;
     border-style: none;
     display: flex;
     justify-content: flex-end;
+    align-items: flex-end;
+}
+
+#dropbtn {
+    background-color: black;
+    color: white;
 }
 
 #hidden1 {

@@ -12,23 +12,23 @@
         <p></p>
         <!--HEADER 1-->
         <div id="c1_1" class="container">
-            <h1><img src="icon/chemengbrasil.png"><a href="https://chemengbrasil.wixsite.com/index">  ChemEng Brasil</h1></a>
+            <h1><a href="https://chemengbrasil.wixsite.com/index"><img src="icon/chemengbrasil_64.png" style="height:100%;">  ChemEng Brasil</h1></a>
             <p>Website educativo, sem fins lucrativos, dedicado a compartilhar conhecimentos de Engenharia Química, Engenharia de Alimentos, Farmácia, Botânica e Agronomia.</p>
         </div>
         <p></p>
         <!-- HEADER 2 -->
         <div id="c1_3" class="container">
-            <h1><img src="icon/python.png"><a href="https://github.com/pires11d/pythonClasses">  pythonClasses Repository</a></h1>
+            <h1><a href="https://github.com/pires11d/pythonClasses"><img src="icon/python.png">  pythonClasses Repository</a></h1>
         </div>
         <h6></h6>
         <!-- HEADER 3 -->
         <div id="c1_4" class="container">
-            <h1><img src="icon/excel.png"><a href="https://github.com/pires11d/xlSheets">  xlSheets Repository</a></h1>
+            <h1><a href="https://github.com/pires11d/xlSheets"><img src="icon/excel.png">  xlSheets Repository</a></h1>
         </div>
         <h6></h6>
         <!-- HEADER 4 -->
         <div id="c1_5" class="container">
-            <h1><img src="icon/matlab.png"><a href="https://github.com/pires11d/matlabScripts">  matlabScripts Repository</a></h1>
+            <h1><a href="https://github.com/pires11d/matlabScripts"><img src="icon/matlab.png">  matlabScripts Repository</a></h1>
         </div>
         <p></p>
         <!-- HEADER 5 -->

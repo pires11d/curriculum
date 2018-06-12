@@ -1,8 +1,8 @@
 <header id="navcont" class="container">
     <nav id="navbar" class="navbar navbar-expand-lg">
         <a class="navbar-brand" role="button" href="index.php">Lucas Joshua Pires</a>
-        <div id="btncont" class="container">
-            <a class="btn" role="button" href="about.php">Qualificações</a>
+        <div id="btncont">
+            <a class="btn" role="button" href="about.php">Geral</a>
             <a class="btn" role="button" href="grad.php">Formação</a>
             <a class="btn" role="button" href="docs.php">Certificados</a>
             <a class="btn dropbtn" role="button" href="projects.php">&emsp;Projetos&emsp;</a>
