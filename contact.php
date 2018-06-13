@@ -17,9 +17,10 @@
                 <div class="column">
                 <h1>Contato</h1>
                 <p></p>
-                <h2>Telefone: <strong>(48) 9 9964-3832</strong></h2>
-                <h2>Email: <strong>pires11d@hotmail.com</strong></h2>
-                <h2>Skype: <strong>pires11d</strong></h2>
+                <h2>Telefone: <br> <strong>(48) 9 9964-3832</strong></h2>
+                <h2>Email: <br> <strong>pires11d@hotmail.com</strong></h2>
+                <h2>Skype: <br> <strong>pires11d</strong></h2>
+                <p></p>
                 <h2>
                     <a class="link" href="https://github.com/pires11d">
                         <img src="icon/github.png">
