@@ -9,7 +9,7 @@ body {
     color: var(--txt-color);
     background-color: var(--page-color);
     font-family: "Century Gothic", CenturyGothic, sans-serif;
-    padding: 0px 40px 40px 40px;
+    padding: 0px 40px 0px 40px;
     overflow-y: scroll;
     /*background-image: url(background.png) */
 }
@@ -66,11 +66,6 @@ li.dropdown {
 .nli {
     display: inline-block;
 }
-
-/* .nli:nover, .nli:active {
-    background-color: inherit;
-    color: var(--bg-color);
-} */
 
 .btn {
     width: 120px;
@@ -208,6 +203,14 @@ li.dropdown {
 #dropbtn {
     background-color: black;
     color: white;
+}
+
+#footcont {
+    display: block;
+    background-color: inherit;
+    border-style: none;
+    text-align: center;
+    padding-bottom: 20px;
 }
 
 #hidden1 {

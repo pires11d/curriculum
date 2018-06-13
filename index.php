@@ -78,6 +78,8 @@
                 </div> 
             </div>
         </div>
+        <p></p>
+        <?php include("footer.php"); ?>
     </body>
     <script src="js/jquery.js"></script>
     <script src="js/scripts.js"></script>

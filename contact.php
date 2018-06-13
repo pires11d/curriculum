@@ -41,7 +41,7 @@
                 </h2>
                 <h2>
                     <a class="link" href="https://www.youtube.com/user/pires11d">
-                        <img src="http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/YouTube-icon.png" alt="">
+                        <img src="http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/YouTube-icon.png">
                         Youtube
                     </a>
                 </h2>
@@ -51,6 +51,8 @@
             </div>
             </div>
         </div>
+        <p></p>
+        <?php include("footer.php"); ?>
     </body>
     <script src="js/jquery.js"></script>
     <script src="js/scripts.js"></script>

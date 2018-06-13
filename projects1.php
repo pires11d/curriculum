@@ -63,6 +63,8 @@
                 <h4><b>Local: </b>UFSC, Florianópolis, SC, Brasil.</h4>
             </div>
         </div>
+        <p></p>
+        <?php include("footer.php"); ?>
     </body>
     <script src="js/jquery.js"></script>
     <script src="js/scripts.js"></script>

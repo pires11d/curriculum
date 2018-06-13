@@ -47,6 +47,8 @@
                 <li><a class="link" href="pdf/6sigma.pdf">6-Sigma (AIChE)</a></li>
             </ul>
         </div>
+        <p></p>
+        <?php include("footer.php"); ?>
     </body>
     <script src="js/jquery.js"></script>
     <script src="js/scripts.js"></script>

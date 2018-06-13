@@ -69,7 +69,9 @@
                 <p></p>
                 <h4><b>Local: </b>km 01 4o. Andar, Sala 3.02, 401, R. Parque Tecnológico Alfa - João Paulo, Florianópolis, SC, Brasil.</h4>
             </div>
-        </div>        
+        </div>
+        <p></p>
+        <?php include("footer.php"); ?>     
     </body>
     <script src="js/jquery.js"></script>
     <script src="js/scripts.js"></script>

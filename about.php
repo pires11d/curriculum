@@ -77,6 +77,8 @@
                 <li><img src="icon/ger.png"> Alemão - Básico</li>
             </ul>
         </div>
+        <p></p>
+        <?php include("footer.php"); ?>
     </body>
     <script src="js/jquery.js"></script>
     <script src="js/scripts.js"></script>
