@@ -14,11 +14,12 @@
         <!--HEADER 1-->
         <p></p>
         <div id="c1_1" class="container">
-            <h1 >Python</h1>
+            <h1 >Cursos de Programação</h1>
             <ul id="hidden1">
                 <li><a class="link" href="pdf/python_ds_intro.pdf">Intro to Python for Data Science</a></li>
                 <li><a class="link" href="pdf/python_ds_intermediate.pdf">Intermediate Python for Data Science</a></li>
                 <li><a class="link" href="pdf/python_dv_intro.pdf">Intro to Python for Data Visualization</a></li>
+                <li><a class="link" href="pdf/sql_intro.pdf">Intro to SQL for Data Science</a></li>
             </ul>
         </div>
         <!--HEADER 2-->
