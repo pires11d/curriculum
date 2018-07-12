@@ -41,7 +41,7 @@
             <h1><img src="icon/ufsc.png">  Projeto de Iniciação Científica - 2014/15</h1>
             <div id="hidden3">
                 <h3>Ago 2014 – Jul 2015</h3>
-                <h4>Estágio voluntário na <a href="http://tnsolution.com.br/"><b>TechNano Solution (TNS)</b></a>, uma empresa que fabrica nanopartículas com propriedades antibacterianas, com o próprio projeto de pesquisa envolvendo a microencapsulação do óleo de Melaleuca alternifolia via técnica de miniemulsão com ultrassom.</h4>
+                <h4>Estágio voluntário na <a href="http://tnsolution.com.br/"><b>TechNano Solution (TNS)</b></a>, uma empresa que fabrica nanopartículas com propriedades antibacterianas, com o próprio projeto de pesquisa envolvendo a microencapsulação do óleo de <i>Melaleuca alternifolia</i> via técnica de miniemulsão com ultrassom.</h4>
                 <!-- <h2><a href="http://formulario.pibic.ufsc.br/pub/verResumo/400713">Ver Resumo</a></h2> -->
                 <div>
                     <a class="link" href="pdf/SIC_2015.pdf"><h2><img class="doc" src="icon/doc.png">  Pôster SIC</h2></a>

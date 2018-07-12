@@ -16,9 +16,11 @@
         <div id="c1_1" class="container">
             <h1 >Habilidades</h1>
             <ul id="hidden1">
+                <li>Gerenciamento e supervisão de uma equipe de desenvolvedores em um projeto de grande porte, tanto no planejamento como em sua implementação;</li>
                 <li>Modelagem computacional de processos químicos, utilizando linguagens de programação de alto nível (orientadas a objeto), como <b>Visual Basic</b> e <b>Python</b>;</li>
+                <li>Desenvolvimento de uma biblioteca genérica de <a href="https://github.com/pires11d/pythonClasses"><b>classes em Python</b></a> para processos de Engenharia Química;</li>
                 <li>Planejamento e desenvolvimento de diversas interfaces gráficas (em <b>VBA</b>, <b>VB.NET</b> e <b>Python.Tkinter</b>) com funcionalidades voltadas ao usuário <i>(UX Design)</i>;</li>
-                <li>Desenvolvimento de uma biblioteca de <a href="https://github.com/pires11d/pythonClasses"><b>classes em Python</b></a> para processos de Engenharia Química;</li>
+                <li>Desenvolvimento de planilhas (com <b>VBA</b>) de uso comercial com as finalidades de realizar: balanços financeiros (D.R.E), análises técnico-econômicas e balanços de massa/energia para projetos industriais;</li> 
                 <li>Modelagem molecular de fármacos com o auxílio do software <a href="https://www.chemcomp.com/MOE-Molecular_Operating_Environment.htm"><b>M.O.E</b></a>, utilizando conceitos de química farmacêutica;</li>
                 <li>Intercambista em dois países da América do Norte (<font color="blue"><b>EUA</b></font> e <font color="red"><b>CAN</b></font>); mente aberta (open-minded), possui diferentes perspectivas na solução de problemas;</li>
                 <li>Familiar com processos de extração experimentais, fez o projeto de conclusão de curso aplicando tais conhecimentos, tanto teóricos como práticos;</li>
