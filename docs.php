@@ -20,7 +20,8 @@
                 <li><a class="link" href="pdf/DC_python_ds_intro.pdf">Intro to Python for Data Science</a></li>
                 <li><a class="link" href="pdf/DC_python_ds_intermediate.pdf">Intermediate Python for Data Science</a></li>
                 <li><a class="link" href="pdf/DC_python_dv_intro.pdf">Intro to Python for Data Visualization</a></li>
-                <li><a class="link" href="pdf/DC_python_dl.pdf">Deep Learning in Python</a></li>
+                <li><a class="link" href="pdf/DC_python_ml_s.pdf">Supervised Learning with scikit-learn in Python</a></li>
+                <li><a class="link" href="pdf/DC_python_ml_d.pdf">Deep Learning in Python</a></li>
                 <li><a class="link" href="pdf/DC_sql_intro.pdf">Intro to SQL for Data Science</a></li>
                 <li><a class="link" href="pdf/DC_sql_joins.pdf">Joining Data in PostgreSQL</a></li>
             </ul>

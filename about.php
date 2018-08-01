@@ -36,27 +36,28 @@
             <h1>Programação</h1>
             <ul id="hidden2">
                 <li><b>Python</b></li>
-				<li><b>VBA</b></li>
+				<li><b>Visual Basic for Applications (VBA)</b></li>
                 <li><b>.NET</b></li>
                 <ul>
-                    <li>Visual Basic</li>
+                    <li>VB</li>
                     <li>C#</li>    
                 </ul>
+                <li><b>LaTeX</b></li>
                 <li><b>HTML / CSS / JavaScript</b></li>     
                 <li><b>PHP</b></li> 
-                <li><b>SQL</b></li> 
-                <li><b>Linux OS</b></li>
+                <li><b>SQL</b></li>
+                <li><b>Linux OS, Mac OS X</b></li>
             </ul>
         </div>
         <!-- HEADER 3 -->
         <p></p>
         <div id="c1_3" class="container">
             <h1>Softwares</h1>
-            <ul style="font-weight: bold" id="hidden3">
-                <li>IDEs: Visual Studio, VS Code, JetBrains' PyCharm, Brackets</li>
-                <li>Microsoft Office (<b>Excel</b>, Word, Power Point, Access, Visio)</li>
+            <ul id="hidden3">
+                <li>IDEs: Visual Studio, VS Code; PyCharm, PhpStorm (JetBrains)</li>
+                <li>Microsoft Office (Excel, Word, Power Point, Access, Visio)</li>
                 <li>MATLAB / Octave / Scilab</li>
-                <li>LaTeX / MiKTeX</li>
+                <li>TeXstudio / MiKTeX</li>
                 <li>M.O.E</li>
                 <li>MathCad</li>
                 <li>Edraw Max</li>
