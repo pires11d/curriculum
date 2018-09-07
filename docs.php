@@ -20,6 +20,9 @@
                 <li><a class="link" href="pdf/DC_python_ds_intro.pdf">Intro to Python for Data Science</a></li>
                 <li><a class="link" href="pdf/DC_python_ds_intermediate.pdf">Intermediate Python for Data Science</a></li>
                 <li><a class="link" href="pdf/DC_python_dv_intro.pdf">Intro to Python for Data Visualization</a></li>
+                <li><a class="link" href="pdf/DC_python_data_science1.pdf">Python Data Science Toolbox (Part 1)</a></li>
+                <li><a class="link" href="pdf/DC_python_importing1.pdf">Importing Data in Python (Part 1)</a></li>
+                <li><a class="link" href="pdf/DC_python_importing2.pdf">Importing Data in Python (Part 2)</a></li>
                 <li><a class="link" href="pdf/DC_python_ml_s.pdf">Supervised Learning with scikit-learn in Python</a></li>
                 <li><a class="link" href="pdf/DC_python_ml_d.pdf">Deep Learning in Python</a></li>
                 <li><a class="link" href="pdf/DC_sql_intro.pdf">Intro to SQL for Data Science</a></li>
