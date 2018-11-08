@@ -45,8 +45,10 @@
                 <li><b>LaTeX</b></li>
                 <li><b>HTML / CSS / JavaScript</b></li>     
                 <li><b>PHP</b></li> 
-                <li><b>SQL</b></li>
-                <li><b>Linux OS, Mac OS X</b></li>
+                <li><b>SQL (MySQL, PostgreSQL)</b></li>
+                <li><b>Java</b></li>
+				<li><b>C++</b></li>
+				<li><b>macOS; Linux OS (Kali, Debian, Ubuntu) 
             </ul>
         </div>
         <!-- HEADER 3 -->
@@ -54,16 +56,12 @@
         <div id="c1_3" class="container">
             <h1>Softwares</h1>
             <ul id="hidden3">
-                <li>IDEs: Visual Studio, VS Code; PyCharm, PhpStorm (JetBrains)</li>
-                <li>Microsoft Office (Excel, Word, Power Point, Access, Visio)</li>
-                <li>MATLAB / Octave / Scilab</li>
-                <li>TeXstudio / MiKTeX</li>
-                <li>M.O.E</li>
-                <li>MathCad</li>
-                <li>Edraw Max</li>
-                <li>AutoCAD Plant 3D</li>
-                <li>COCO Simulator (COFE)</li>
-                <li>Source SDK (Valve Hammer Editor)</li>
+                <li><b>IDEs:</b> Visual Studio / VS Code / PyCharm / PhpStorm</li>
+                <li><b>Microsoft Office:</b> Excel / Word / Power Point / Access / Visio / Project</li>
+                <li><b>Numerical:</b> MATLAB / Octave / scilab / MathCad / Maple</li>
+                <li><b>LaTeX:</b> TeXstudio / MiKTeX</li>
+                <li><b>Desenho:</b> Edraw Max / AutoCAD Plant 3D / Source SDK (software de criação de mapas 3D para jogos da engine do Counter-Strike: Source</li>
+                <li><b>Outros:</b> M.O.E / ChemSep / COFE (COCO Simulator) </li>
             </ul>
         </div>
         <!-- HEADER 4 -->
