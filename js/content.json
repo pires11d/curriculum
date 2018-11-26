@@ -1,0 +1,66 @@
+{
+    "header":{
+        "en": {
+            "menu1": "Highlights",
+            "menu2": "Graduation",
+            "menu3": "Certificates",
+            "menu4": "+ Projects",
+            "menu4_1": "Academic",
+            "menu4_2": "Commercial",
+            "menu4_3": "Community",
+            "menu5": "Contact"
+        },
+        "pt": {
+            "menu1": "Geral",
+            "menu2": "Formação",
+            "menu3": "Certificados",
+            "menu4": "+ Projetos",
+            "menu4_1": "Acadêmicos",
+            "menu4_2": "Comerciais",
+            "menu4_3": "Comunitários",
+            "menu5": "Contato"
+        }},
+    "index":{
+
+    },
+    "about":{
+
+    },
+    "grad":{
+
+    },
+    "docs":{
+
+    },
+    "projects":{
+        "en": {
+            "p1": "Academic Projects",
+            "p2": "Commercial Projects",
+            "p3": "Community Projects"
+        },
+        "pt": {
+            "p1": "Projetos Acadêmicos",
+            "p2": "Projetos Comerciais",
+            "p3": "Projetos Comunitários"
+        }},
+    "projects1":{
+
+    },
+    "projects2":{
+
+    },
+    "projects3":{
+
+    },
+    "contact":{
+        "en":{
+            "title":"Contact",
+            "h1":"Contact",
+            "h2":"Phone Number"
+        },
+        "pt":{
+            "title":"Contato",
+            "h1":"Contato",
+            "h2":"Telefone"
+        }}
+}

@@ -15,9 +15,9 @@
         <div class="container">
             <div class="row">
                 <div class="column">
-                <h1>Contato</h1>
+                <h1 id="title">Contato</h1>
                 <p></p>
-                <h2>Telefone: <br> <strong>(48) 9 9964-3832</strong></h2>
+                <h2 id="h2">Telefone: <br> <strong>(48) 9 9964-3832</strong></h2>
                 <h2>Email: <br> <strong>pires11d@hotmail.com</strong></h2>
                 <h2>Skype: <br> <strong>pires11d</strong></h2>
                 <p></p>
