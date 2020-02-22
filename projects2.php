@@ -17,10 +17,10 @@
             <h1><img src="icon/anjo.png" width="48px"> Anjo Tintas</h1>
             <div id="hidden1">
                 <h3>Nov 2016 – Mar 2017</h3>
-                <h4>Assistência no desenvolvimento de um software capaz de simular o comportamento de misturas não-ideais contendo diferentes solventes e resinas, e por fim realizar uma otimização técnico-econômica das misturas selecionadas.</h4>
                 <ul>
-                    <li><h2>AnjoSimSys</h2></li>
+                    <li><h2>Simulador de Evaporação</h2></li>
                 </ul>
+                <h4>Assistência no desenvolvimento de um software capaz de simular o comportamento de misturas não-ideais contendo diferentes solventes e resinas, bem como em sua documentação técnica.</h4>
                 <h4><b>Local: </b>Anjo Tintas e Solventes, Criciúma, SC, Brasil.</h4>
             </div>
         </div>
@@ -33,36 +33,37 @@
                 <h4>Estágio obrigatório na empresa Tubanharon, visando a consultoria e o desenvolvimento de softwares para as indústrias de processos.</h4>
                 <ul style="list-style: none;">
                     <div class="container">
-                        <li><h2>OxyFree</h2></li>
-                        <h4>Planilha dinâmica com VBA voltada para a empresa <b>ArcelorMittal Vega</b>, que resolve o balanço de massa e de energia (a parâmetros concentrados) para um sistema de decapagem ácida genérico com “n” tanques. Calcula a taxa de decapagem para bobinas de aço, bem como a concentração e temperatura dos banhos. O modelo transiente foi baseado em equações diferenciais ordinárias de 1ª ordem descrito no artigo de Noh (2015). A abordagem computacional para resolver as equações foi a comunicação entre os softwares Excel e Octave.</h4>
+                        <li>
+                        <h4>Planilha dinâmica com cálculos em VBA que resolvem balanços de massa e energia (a parâmetros concentrados) para um sistema de decapagem ácida genérico com “n” tanques. Calcula a taxa de decapagem para bobinas de aço, bem como a concentração e temperatura dos banhos. O modelo transiente foi baseado em equações diferenciais ordinárias de 1ª ordem descrito no artigo de Noh (2015). A abordagem computacional para resolver as equações foi a comunicação entre os softwares Excel e Octave.</h4>
+                        </li>
                     </div>
                     <h6></h6>
                     <div class="container">
-                        <li><h2>A2R.sheet</h2></li>
-                        <h4>O protótipo <i>A2R.sheet</i> (planilha dinâmica com VBA) foi criado com base na planta da Unidade de Regeneração de Ácidos (URA) da ArcelorMittal Vega, e teve como objetivo realizar interativamente o fechamento do balanço de massa de todas as correntes do processo, através da entrada de dados coletados em certos pontos de operação da planta.</h4>
+                        <li><h2>-</h2></li>
+                        <h4>Planilha com cálculos em VBA que foi criada com base em uma planta de Unidade de Regeneração de Ácidos (U.R.A.), a qual recupera o ácido utilizado em plantas de decapagem de chapas de aço, e teve como objetivo realizar interativamente o fechamento do balanço de massa de todas as correntes do processo, através da entrada de dados coletados em certos pontos de operação da planta.</h4>
                     </div>
                     <h6></h6>
                     <div class="container">
-                        <li><h2>Plant.Economics</h2></li>
+                        <li><h2>PlantEconomics</h2></li>
                         <h4>Planilha dinâmica para análise técnico-econômica de projetos industriais. A interface principal da planilha apresenta o gráfico do Valor Presente Líquido com o tempo, bem como os principais indicadores de viabilidade de um projeto: Taxa Interna de Retorno (TIR), Índice de Lucratividade (IL), e Valor Presente Líquido (VPL).</h4>
                     </div>
                 </ul>
                 <p></p>
-                <h3>Ago 2017 – Presente</h3>
+                <h3>Ago 2017 – Dez 2019</h3>
                 <h4>Contratado pela empresa Tubanharon, como Analista Técnico e Desenvolvedor de Software.</h4>
                 <ul style="list-style: none;">
                     <div class="container">
-                        <li><h2>ExtraOil.M2</h2></li>
-                        <h4>Desenvolvimento de um simulador (em VB.NET) de extração de óleo de soja para extratores do tipo Rotocel, vendido para a empresa <b>Bunge Brasil S.A.</b> Melhoria da interface gráfica, bem como contribuições na modelagem matemática e consequente implementação computacional. Gestão de conteúdo e compilação da documentação técnica.</h4>
+                        <li><h2>-</h2></li>
+                        <h4>Desenvolvimento de um simulador (em VB.NET) de extração de óleo de soja para extratores do tipo Rotocel.</b> Melhoria da interface gráfica, bem como contribuições na modelagem matemática e consequente implementação computacional. Gestão de conteúdo e compilação da documentação técnica.</h4>
                     </div>
                     <h6></h6>
                     <div class="container">
-                        <li><h2>TEA.sheet</h2></li>
-                        <h4>(<i>Technical-Economical Analysis</i>): Planilha com VBA que calcula e compara diferentes simulações feitas pelo <i>ExtraOil.M2</i>; realiza balanços de massa e de energia, e fornece os índices econômicos em uma unidade industrial de Crushing de óleo de soja. Esta planilha foi desenvolvida para a <b>Bunge Brasil S.A.</b></h4>
+                        <li><h2>-</h2></li>
+                        <h4>(<i>Technical-Economical Analysis</i>): Planilha com VBA que calcula e compara diferentes simulações feitas pelo <i>ExtraOil.M2</i>; realiza balanços de massa e de energia, e fornece os índices econômicos em uma unidade industrial de Crushing de óleo de soja.</b></h4>
                     </div>
                     <h6></h6>
                     <div class="container">
-                        <li><h2>AngoAloe</h2></li>
+                        <li><h2>-</h2></li>
                         <h4>Planilha com VBA que calcula os balanços de massa e de energia, bem como a viabilidade econômica de um projeto conceitual de uma unidade de processamento de <i>Aloe vera</i>. Posteriormente é transformada na planilha genérica Plant.Design, que serviria para qualquer processo industrial.</h4>
                     </div>
                 </ul>

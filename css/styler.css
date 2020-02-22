@@ -226,3 +226,13 @@ li.dropdown {
 #hidden4 {
     display: none;
 }
+
+.languages {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.btn-flag {
+    border: none;
+    background: none;
+}

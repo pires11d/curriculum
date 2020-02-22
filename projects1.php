@@ -17,7 +17,7 @@
             <h1><img src="icon/ufsc.png">  Projeto de Iniciação Científica - 2012/13</h1>
             <div id="hidden1">
                 <h3>Ago 2012 – Jul 2013</h3>
-                <h4>Assistência laboratorial em um projeto de pesquisa que envolvia o efeito da exposição de membranas poliméricas à CO2 supercrítico.</h2>
+                <h4>Assistência laboratorial em um projeto de pesquisa envolvendo a análise sobre o efeito da exposição de membranas poliméricas à CO2 supercrítico.</h2>
                 <p></p>
                 <h4><b>Local: </b>Laboratório de Separação por Membranas (LABSEM) e Laboratório de Termodinâmica e Extração Supercrítica (LATESC), UFSC, Florianópolis, SC, Brasil.</h4>
             </div>
@@ -28,7 +28,7 @@
             <h1><img src="icon/ufsc.png">  Projeto de Iniciação Científica - 2013/14</h1>
             <div id="hidden2">
                 <h3>Ago 2013 – Jul 2014</h3>
-                <h4>Projeto de pesquisa que envolvia a síntese de partículas poliméricas a partir de recursos renováveis, com polimerização via metátese de dienos acíclicos (ADMET). Dentre as técnicas de preparação utilizadas, destacam-se a polimerização em massa, emulsão, suspensão e miniemulsão.</h4>
+                <h4>Projeto de pesquisa envolvendo síntese de partículas poliméricas a partir de recursos renováveis, com polimerização via metátese de dienos acíclicos (ADMET). Dentre as técnicas de preparação utilizadas, destacam-se a polimerização em massa, emulsão, suspensão e miniemulsão.</h4>
                 <div>
                     <a class="link" href="pdf/SIC_2014.pdf"><h2><img class="doc" src="icon/doc.png">  Pôster SIC</h2></a>
                 </div>
